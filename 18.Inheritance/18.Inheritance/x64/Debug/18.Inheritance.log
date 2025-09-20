@@ -1,0 +1,3 @@
+﻿  Main.cpp
+E:\dev\18.Inheritance\Main.cpp(33,12): warning C4101: “player”: 未引用的局部变量
+  18.Inheritance.vcxproj -> E:\dev\18.Inheritance\x64\Debug\18.Inheritance.exe
